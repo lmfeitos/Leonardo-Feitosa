@@ -1,11 +1,24 @@
 ---
 title: "Leonardo Feitosa"
+image: Leo_pic.jpg
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links: 
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/leonardo-manir-feitosa-6b2aa8181/
+    - icon: github
+      text: Github
+      href: https://github.com/lmfeitos
+    - icon: google scholar
+      text: Google Scholar
+      href: https://scholar.google.com.br/citations?user=02Nq52RlwHEC&hl=pt-BR
+    - icon: researchgate
+      text: ResearchGate
+      href: https://www.researchgate.net/profile/Leonardo-Feitosa?ev=hdr_xprf
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Hello, I'm Leo! I'm a Brazilian biologist passionate about using research to achieve a sustainable use of natural resources. I'm especially interested in wildlife trade, fisheries, and species conservation (especially sharks and rays). Outside of work, I really enjoy traveling, cooking tasty meals for family and friends, and reading fiction and non-fiction books.
