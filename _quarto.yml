@@ -3,17 +3,7 @@ project:
   output-dir: docs
   resources: 
     - pubs
-  references:
-    - type: file
-      path: pubs/shark_ray/sharks_and_rays.qmd
-      title: "Shark and ray ecology and conservation"
-    - type: file
-      path: pubs/fish_mgmt/fisheries_mgmt.qmd
-      title: "Fisheries Management"
-    - type: file
-      path: pubs/trade/wildlife_trade.qmd
-      title: "Wildlife Trade"
-
+  
 website:
   title: "Leonardo Manir Feitosa"
   navbar:
