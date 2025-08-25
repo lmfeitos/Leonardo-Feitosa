@@ -5,7 +5,7 @@ title: "Research"
 **Shark and ray ecology and conservation**
 
 
-Sharks and rays (Elasmobranchii) are among the most threatened vertebrates globally. Overfishing is the main extinction threat, mostly caused by bycatch from longline, gillnet, and trawl fisheries. Decreases in their populations could cause substantial disequilibria in the ecosystems they occur because they are meso- and apex-predators occurring in marine and freshwater environments. I am interested in gathering life history and ecological data about data-poor species threatened by fisheries in tropical environments to better inform species status assessments and fisheries management. [Related publications](../docs/sub_files/sharks_and_rays.html)
+Sharks and rays (Elasmobranchii) are among the most threatened vertebrates globally. Overfishing is the main extinction threat, mostly caused by bycatch from longline, gillnet, and trawl fisheries. Decreases in their populations could cause substantial disequilibria in the ecosystems they occur because they are meso- and apex-predators occurring in marine and freshwater environments. I am interested in gathering life history and ecological data about data-poor species threatened by fisheries in tropical environments to better inform species status assessments and fisheries management. [Related publications](../docs/docs/sub_files/sharks_and_rays.html)
 
 **Fisheries management and policy**
 
