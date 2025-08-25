@@ -1,5 +1,7 @@
 ---
 title: "Shark and ray ecology and conservation"
+number-sections: false
+number-offset: 0
 ---
 
 17. **Feitosa, L. M.** & Lessa, R. P. T. (2025). Brazilian Amazon Coast is an essential habitat for threatened and evolutionarily distinct sharks and rays. Marine Biology, 172(2), 1-13. [link](https://doi.org/10.1007/s00227-025-04599-3)
