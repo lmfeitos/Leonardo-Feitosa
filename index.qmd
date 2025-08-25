@@ -1,5 +1,5 @@
 ---
-title: "Leonardo Feitosa"
+title: "Leonardo Manir Feitosa"
 image: Leo_pic.jpg
 toc: false
 about: 
