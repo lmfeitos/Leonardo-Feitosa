@@ -10,7 +10,7 @@ Sharks and rays (Elasmobranchii) are among the most threatened vertebrates globa
 **Fisheries management and policy**
 
 
-Fishing is one of the last activities in which humans still act as predators. The increase in demand for fish protein and the technological improvements in fishing fleets over the last few decades have placed a strong pressure on fish stocks, with roughly 30% of global fisheries being overfished. While fisheries management is arguably the best approach we have to ensure fish stocks remain sustainable through time, its focus on the target species is not enough to fishing is a sustainable activity. I am interested in evaluating current fisheries management efforts and proposing new alternatives to make management more holistic and effective. [Related publications](../sub_files/fisheries_mgmt.html)
+Fishing is one of the last activities in which humans still act as predators. The increase in demand for fish protein and the technological improvements in fishing fleets over the last few decades have placed a strong pressure on fish stocks, with roughly 30% of global fisheries being overfished. While fisheries management is arguably the best approach we have to ensure fish stocks remain sustainable through time, its focus on the target species is not enough to fishing is a sustainable activity. I am interested in evaluating current fisheries management efforts and proposing new alternatives to make management more holistic and effective. [Related publications](../sub_files/fisheries_mgmt.qmd)
 
 **Extinction risk from wildlife trade**
 
