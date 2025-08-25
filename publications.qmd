@@ -1,5 +1,7 @@
 ---
 title: "Publications"
+number-sections: false
+number-offset: 0
 ---
 
 **Peer-reviewed publications**
