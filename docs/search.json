@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Courses taught as Teaching Assistant\nEcology of Managed Ecosystems - ESM201. Graduate level, Winter 2023, 2024, 2025, Bren School, UCSB.\nStudent evaluations\nStudent comments: I appreciated how thoroughly we went over concepts, equations, and graphs in each section. I felt like it provided good organization and structure to all the concepts we learned in lecture, and helped us identify what was most important to remember. I also really appreciated the midterm review session, I found it to be extremely helpful!\nEnvironmental Biogeochemistry - ESM202. Graduate level, Spring 2025, Bren School, UCSB.\nStudent evaluations\nStudent comments: Leo is the best TA I’ve had at Bren. I was fortunate to have him as my TA in Ecology as well. He is very accommodating to student learning preferences. I think our section could be more successful if the exam information were articulated to him. There is so much content in this course; in fact, I think it should be two separate courses. It isn’t easy to know what to focus on in such a short time. We learned the hard way that we’re expected to know minor details during exams and homework. It would be beneficial for Leo to be provided with “key topics.” This would make the section less overwhelming. Thank you, Leo, for making the best of this class!! We were lucky to have your support!\nStatistics for Environmental Data Science - EDS222. Graduate level, Fall 2024, Bren School, UCSB.\nStudent evaluations\nStudent comments: There was a bit of troubleshooting with this class since it was the professors first time teaching the class. Leo was very adaptable and made a comfortable working environment. It seemed like Leo and the professor weren’t always on the same page, but Leo would always follow up to address our questions.\nIntroductory Biological Anthropology Undergraduate level, Fall 2023, UCSB.\nStudent evaluations\nStudent comments: Very kind guy who offered a lot of good, helpful feedback. Not many people attended his sections, but he made the best out of it and took the time to break down certain topics."
+  },
+  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
@@ -47,13 +54,6 @@
     "title": "About",
     "section": "PhD research",
     "text": "PhD research\nAlthough excited about all this research, I understood that I still had a lot to learn on how to make more effective and cutting-edge science bridging concepts from other fields to make stronger research and policy-oriented suggestions. I then decided take my career abroad and started a PhD in Environmental Science and Management at the world renowned Bren School in the beautiful UC Santa Barbara. During my time at UCSB, I developed strong data science skills (machine learning, simulations, spatial analyses, and ecological modeling) focused on research reproducibility and open science principles. For my dissertation, I developed a research agenda on the bioeconomic synergies that enable fisheries to increase the extinction risk of aquatic species. My PhD project focused on fisheries bycatch issues and the luxury seafood market for shark fins and fish maw (the dried gas bladder of bony fishes), which are high-value delicacies in Southeast Asia. Two of my chapters have been published in Fish and Fisheries already. In the first we laid the theoretical basis for how open-access fisheries catching multiple species can cause the least productive species to go extinct while maintaining profitability. In the second we use machine learning to estimate the at-vessel and post-release mortality rates for over 350 species of sharks caught by longlines, and then use these estimates to simulate the effects of retention bans on their populations. In the third chapter, which is almost finished, I use a set of Ordered Forest Models, a newly developed machine learning algorithm for ordered data, to understand the drivers of global serial exploitation (sequential addition of countries and species) for the shark fin and fish maw markets. By doing this, I’ll predict which currently unexploited species can enter these markets in the near future and where will fisheries for them be developed. I believe this paper will be a game changer in our ability to fight illegal, unreported and unregulated (IUU) fisheries and for the listing of species in CITES."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Leonardo Manir Feitosa",
-    "section": "",
-    "text": "Hello, I’m Leo! I’m a Brazilian biologist passionate about using research to achieve a sustainable use of natural resources. I’m especially interested in wildlife trade, fisheries, and species conservation (especially sharks and rays). Outside of work, I really enjoy traveling, cooking tasty meals for family and friends, and reading fiction and non-fiction books."
   },
   {
     "objectID": "pubs/fish_mgmt/fisheries_mgmt.html",

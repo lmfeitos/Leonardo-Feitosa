@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
   resources: 
-    - pubs
+    - "pubs/**"
   
 website:
   title: "Leonardo Manir Feitosa"
@@ -13,6 +13,7 @@ website:
       - about.qmd
       - research.qmd
       - publications.qmd
+      - teaching.qmd 
 
 format:
   html:
