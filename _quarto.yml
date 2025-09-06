@@ -10,10 +10,14 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - research.qmd
-      - publications.qmd
-      - teaching.qmd 
+      - href: about.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: teaching.qmd
+        text: Teaching
 
 format:
   html:
